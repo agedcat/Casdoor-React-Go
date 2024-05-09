@@ -16,5 +16,6 @@ yarn start
 ### 后端
 
 ```bash
+go install
 go run *.go
 ```
